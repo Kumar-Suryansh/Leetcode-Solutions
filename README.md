@@ -15,3 +15,19 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 - [GitHub](https://github.com/Kumar-Suryansh)
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
