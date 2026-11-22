@@ -22,6 +22,7 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +31,12 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Sorting
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
