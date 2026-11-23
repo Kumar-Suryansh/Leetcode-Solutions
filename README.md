@@ -22,6 +22,7 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Binary Search
 |  |
@@ -51,4 +52,20 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
