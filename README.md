@@ -24,6 +24,7 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 | [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3693-climbing-stairs-ii](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3693-climbing-stairs-ii](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
