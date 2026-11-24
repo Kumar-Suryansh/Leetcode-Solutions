@@ -24,6 +24,7 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 | [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -70,4 +72,16 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
