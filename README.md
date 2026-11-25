@@ -26,10 +26,12 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,4 +86,20 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Hash Table
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
