@@ -61,6 +61,7 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
@@ -102,4 +103,8 @@ Solutions are automatically pushed using [LeetHub v2](https://github.com/arunbha
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Kumar-Suryansh/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
